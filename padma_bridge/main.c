@@ -4,6 +4,10 @@
 #include<stdio.h>
 using namespace std;
 
+void train(){
+
+}
+
 int main(){
 
 
